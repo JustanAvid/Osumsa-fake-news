@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bedbug Outbreak at Faruq Medical Hostel - Osun State University News</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #f8f9fa;
+      color: #212529;
+    }
+    header {
+      background: #800000;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    .container {
+      max-width: 800px;
+      margin: 2rem auto;
+      background: white;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #800000;
+    }
+    .date {
+      color: #6c757d;
+      font-size: 0.9rem;
+      margin-bottom: 1rem;
+    }
+    blockquote {
+      font-style: italic;
+      border-left: 4px solid #800000;
+      margin: 1rem 0;
+      padding-left: 1rem;
+      color: #444;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.8rem;
+      padding: 1rem;
+      margin-top: 2rem;
+      background: #f1f1f1;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h2>Osun State University News</h2>
+  </header>
+
+  <div class="container">
+    <h1>Bedbug Outbreak Sparks Outrage at Faruq Medical Hostel</h1>
+    <p class="date">August 17, 2025 | Osogbo, Nigeria</p>
+
+    <p>Students of the Faruq Medical Hostel, Osun State University, have expressed strong displeasure over the recent outbreak of bedbugs in their residence.</p>
+
+    <p>In an interview with <strong>Tutu Morrie</strong>, a 400-level medical student and resident of the hostel, she explained that there had been early signs of the infestation which were reported to the school authorities, but no action was taken.</p>
+
+    <blockquote>
+      “The fact that the school didn’t act on the signs we reported probably led to the boom of the bedbugs,” she said.
+    </blockquote>
+
+    <p>Morrie further called on the university to take swift action to address the issue:</p>
+
+    <blockquote>
+      “I call on the school to take immediate action in order to exterminate the bedbugs as they are affecting our stay in the hostel.”
+    </blockquote>
+
+    <p>Students fear that if urgent measures are not taken, the infestation will continue to disrupt their living conditions, health, and academic focus.</p>
+  </div>
+
+  <footer>
+    &copy; 2025 Osun State University News (Fake Sample Page)
+  </footer>
+</body>
+</html>
